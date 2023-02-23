@@ -10,3 +10,10 @@
   text-align: center;
   text-shadow: var(--text-shadow-blue);
 }
+
+@media screen and (max-width: 479px) {
+  .img {
+    width: 180px;
+    margin-top: 50px;
+  }
+}

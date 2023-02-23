@@ -1,7 +1,14 @@
 .video {
-  display: block;
+  display: flex;
   margin: auto;
   margin-top: var(--spacing-large);
   border-radius: var(--spacing-medium);
   box-shadow: var(--box-shadow-white);
+}
+
+@media screen and (max-width: 767px) {
+  .video {
+    width: 80%;
+    margin-top: 15px;
+  }
 }

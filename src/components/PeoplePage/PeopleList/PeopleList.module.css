@@ -1,10 +1,11 @@
 .list__container {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
 }
 
 .list__item {
-   flex: 0 0 14%;
+  flex: 0 0 14%;
   margin: var(--spacing-medium);
   border-radius: var(--border-radius-small);
   background-color: var(--color-white);
@@ -16,12 +17,31 @@
 }
 .person__photo {
   width: 100%;
-  height: 260px;
   object-fit: cover;
-  object-position: top center;
+  object-position: center center;
   border-radius: var(--border-radius-small) var(--border-radius-small) 0 0;
 }
 
 p {
-   padding: 10px 0;
+  padding: 10px 0;
+}
+
+@media screen and (max-width: 767px) {
+  .list__item {
+    flex: 0 0 25%;
+    margin: 15px;
+  }
+
+  p {
+    font-size: 13px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .list__item {
+    flex: 0 0 35%;
+  }
+  p {
+    font-size: 11px;
+  }
 }

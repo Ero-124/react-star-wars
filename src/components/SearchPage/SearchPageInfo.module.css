@@ -9,6 +9,7 @@
   cursor: pointer;
   display: flex;
   align-items: center;
+  margin-bottom: 15px;
 }
 .person__photo {
   width: 70px;
@@ -39,7 +40,7 @@
     column-count: 1;
   }
   .list__item a {
-   flex-direction: column;
+   flex-direction: column-reverse;
  }
   .person__photo {
    width: 200px;

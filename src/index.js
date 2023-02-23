@@ -14,7 +14,7 @@ root.render(
     <Provider store={store}>
       <BrowserRouter basename={`/${REPO_NAME}/`}>
         <ThemeProvider>
-          <App /> 
+          <App />
         </ThemeProvider>{" "}
       </BrowserRouter>{" "}
     </Provider>{" "}

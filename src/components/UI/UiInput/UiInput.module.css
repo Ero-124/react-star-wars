@@ -39,3 +39,9 @@
 .clear__disabled {
   opacity: 0.2;
 }
+
+@media screen and (max-width: 479px) {
+  .input {
+    min-width: 0;
+  }
+}

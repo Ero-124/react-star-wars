@@ -5,13 +5,14 @@ import {
   THEME_LIGHT,
   THEME_NEITRAL,
 } from "../../../context/ThemeProvider";
+import ChooseSideItem from "./ChooseSideItem/ChooseSideItem";
+
 
 import imgDarkSide from "./img/dark-side.jpg";
 import imgFalcon from "./img/falcon.jpg";
 import imgLightSide from "./img/light-side.jpg";
 
 import styles from "./ChooseSide.module.css";
-import ChooseSideItem from "./ChooseSideItem/ChooseSideItem";
 
 const ChooseSide = () => {
   const elements = [
