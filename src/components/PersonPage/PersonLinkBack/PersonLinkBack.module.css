@@ -1,0 +1,14 @@
+.back__container {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 15px;
+  font-weight: var(--font-bold);
+  color: var(--color-yellow);
+  cursor: pointer;
+}
+
+.link__img {
+   margin-right: var(--spacing-small);
+   object-fit: cover;
+   object-position: center center;
+}
