@@ -1,5 +1,6 @@
 {
   "name": "react-star-wars",
+  "homepage": "https://ero-124.github.io/react-star-wars",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,6 +18,8 @@
     "redux-thunk": "^2.4.2"
   },
   "scripts": {
+    "predeploy": "npm run build ",
+    "deploy": "gh-pahes -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
