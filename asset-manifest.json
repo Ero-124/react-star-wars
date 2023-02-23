@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/react-star-wars/static/css/main.002368c7.css",
-    "main.js": "/react-star-wars/static/js/main.b5012fcc.js",
-    "static/css/890.5bea08fe.chunk.css": "/react-star-wars/static/css/890.5bea08fe.chunk.css",
-    "static/js/890.47f35d8e.chunk.js": "/react-star-wars/static/js/890.47f35d8e.chunk.js",
+    "main.css": "/react-star-wars/static/css/main.b01ab906.css",
+    "main.js": "/react-star-wars/static/js/main.ba1fd09e.js",
+    "static/css/890.a3113e5f.chunk.css": "/react-star-wars/static/css/890.a3113e5f.chunk.css",
+    "static/js/890.1b3ee709.chunk.js": "/react-star-wars/static/js/890.1b3ee709.chunk.js",
     "static/media/bg.jpg": "/react-star-wars/static/media/bg.29b25be31315dad3ce4e.jpg",
     "static/media/falcon.jpg": "/react-star-wars/static/media/falcon.c1d0a8d1869b3fbdb9ab.jpg",
     "static/media/han-solo.mp4": "/react-star-wars/static/media/han-solo.db435084c403f6b37d4d.mp4",
@@ -22,13 +22,13 @@
     "static/media/loader-blue.svg": "/react-star-wars/static/media/loader-blue.7c512f767ad222f44a21e787137b3442.svg",
     "static/media/loader-white.svg": "/react-star-wars/static/media/loader-white.f33a2503998969c452e43de1487fcdc8.svg",
     "static/media/back.svg": "/react-star-wars/static/media/back.d8812aecae2a58c62765c384310d64cd.svg",
-    "main.002368c7.css.map": "/react-star-wars/static/css/main.002368c7.css.map",
-    "main.b5012fcc.js.map": "/react-star-wars/static/js/main.b5012fcc.js.map",
-    "890.5bea08fe.chunk.css.map": "/react-star-wars/static/css/890.5bea08fe.chunk.css.map",
-    "890.47f35d8e.chunk.js.map": "/react-star-wars/static/js/890.47f35d8e.chunk.js.map"
+    "main.b01ab906.css.map": "/react-star-wars/static/css/main.b01ab906.css.map",
+    "main.ba1fd09e.js.map": "/react-star-wars/static/js/main.ba1fd09e.js.map",
+    "890.a3113e5f.chunk.css.map": "/react-star-wars/static/css/890.a3113e5f.chunk.css.map",
+    "890.1b3ee709.chunk.js.map": "/react-star-wars/static/js/890.1b3ee709.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.002368c7.css",
-    "static/js/main.b5012fcc.js"
+    "static/css/main.b01ab906.css",
+    "static/js/main.ba1fd09e.js"
   ]
 }
